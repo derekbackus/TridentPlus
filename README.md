@@ -22,11 +22,11 @@ All of the custom files are in the STL folder. Everything else should be printed
 - AL print bed will be 2 350mm magnabeds with 2 heaters on the bottom. 2 PEI WhamBam sheets will be used side-by-side for the print surface.
 - Add 14ga or 16ga steel backers to X & Y extrusions for rigidity.
 # Possible Issues
-Belts are approximately 2.5 meters. How will they work/stretch, etc? **Seems to be ok. Slightly more ringing, which can be taken care of with input shaper**
-Gantry is 20mm extrusion — is this rigid enough? Will MGN12 rails and backers make them rigid enough? **Yes, it is rigid enough. My bed mesh varies by .1964. This seems pretty good ovoer 650mm**
-How fast can it print? Hopefully 150mm(ish) **Prints great at 150mm perimeters, 60mm external perimeters and 35mm/s cubed volumetric for the rest with a Rapido hot end**
-Will the bed be too heavy for the steppers? **No, the steppers handle the bed with ease**
-Will the 20mm bed rails be rigid enough? **Yes**
+- Belts are approximately 2.5 meters. How will they work/stretch, etc? **Seems to be ok. Slightly more ringing, which can be taken care of with input shaper**
+- Gantry is 20mm extrusion — is this rigid enough? Will MGN12 rails and backers make them rigid enough? **Yes, it is rigid enough. My bed mesh varies by .1964. This seems pretty good ovoer 650mm**
+- How fast can it print? Hopefully 150mm(ish) **Prints great at 150mm perimeters, 60mm external perimeters and 35mm/s cubed volumetric for the rest with a Rapido hot end**
+- Will the bed be too heavy for the steppers? **No, the steppers handle the bed with ease**
+- Will the 20mm bed rails be rigid enough? **Yes**
 # Mods Included
 - Klicky
 - .075 steel extrusion backers based on these https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/whoppingpochard/extrusion_backers
