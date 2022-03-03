@@ -6,7 +6,7 @@ This is an advanced build. Please don’t try this for your first build. It is n
 - All of the extrusions were drilled in-house on a drill press — there are no stock numbers for pre-drilled extrusions provided. There are drill jigs provided in the STL folder.
 - You need to tap the extrusions for blind joints. This is easy and goes fast with a hand drill, clamp, tapping fluid and a SHARP 5mm tap.
 - Getting 2 build plates level and aligned well enough to do a Z_TILT_ADJUST is not easy. You must perfectly level your printer to make this work.
-- Configuring Klipper is a bit more difficult than configuring a Trident. In particular, there are two SSRsfor the two bed heaters, and an extra Z motor adding to the z_tilt configuration.
+- Configuring Klipper is a bit more difficult than configuring a Trident. In particular, there are two SSRs for the two bed heaters, and an extra Z motor adding to the z_tilt configuration.
 # 3D CAD
 All of the custom files are in the STL folder. Everything else should be printed from the stock Trident. Here’s the 3D view in an online version for your viewing pleasure. https://autode.sk/3JmR1mI. I will get the STL file ready. You'll need these so you can see where all the holes in the extrusions need to be drilled.
 # Goals
