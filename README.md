@@ -14,7 +14,7 @@ All of the custom files are in the STL folder. Everything else should be printed
 - Re-use all Trident parts, where possible, so I don’t have to re-invent the wheel.
 - Update Trident parts minimally, where needed.
 # Ideas/Plans
-- Use 4 Z integrated lead screw motors in each corner for the Z, reusing all the plastic Trident bed parts, including the MGN9 rails.
+- Use 4 integrated lead screw motors in each corner for the Z, reusing all the plastic Trident bed parts, including the MGN9 rails.
 - Axis will be rotated 90 degrees. Looking from the front, the print size will be 650 wide (x) with the gantry open on the right.
 - Corner posts and bottom base extrusions will be upgraded to 4040.
 - The long axis (x) will be upgraded to MGN12 rails.
