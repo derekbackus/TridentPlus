@@ -1,3 +1,4 @@
+[](378D3A03-BC40-43F3-BE0E-503D58227F1E.png)
 # TridentPlus
  350x650 Voron Trident
 # Notes
